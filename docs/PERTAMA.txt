@@ -1,0 +1,13 @@
+Membuat project dengan activity kosong
+Menambahkan native code dan Cmake pada source aplisi:
+src/main/cpp/main.cpp
+src/main/cpp/CMakeList.txt
+
+Membuat sample code c++
+Mengatur configurasi cmake
+- Menambahkan version cmake yang diperlukan
+- Memberi nama project
+- Menambahkan kode c++ pada opsi library
+- Menambahkan library external yang diperlukan
+
+Mengatur penggunaan cmake pad app module
